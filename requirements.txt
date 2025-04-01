@@ -1,0 +1,23 @@
+# streamlit ⚡ - Rapid Web Apps for Data Science & ML 🚀
+#   • Launch interactive apps with: streamlit run app.py 💻
+#   • Create stunning dashboards that dazzle 📊
+#   • Prototype quickly – it's like magic! ✨
+streamlit
+
+# Pillow 🖼️ - The Friendly PIL Fork (Picture Perfect!) 📸
+#   • Open, manipulate, and save images like a pro 🥧
+#   • Resize and crop images for social media stardom 📱
+#   • Create thumbnails that make your memes pop 😁
+Pillow
+
+# PyMuPDF 📝 - The PDF Wizard (XPS & eBook Rendering) 📚
+#   • Render PDF pages to images for quick previews 👀
+#   • Extract text like a digital detective 🕵️‍♀️
+#   • Convert PDFs into snappy thumbnails for your gallery 🚀
+PyMuPDF
+
+# ReportLab 🖨️ - Create PDF Documents in Style 📜
+#   • Generate dynamic PDFs for reports, invoices, or epic novels 📖
+#   • Customize layouts with tables, paragraphs, and images 🎨
+#   • Embed custom fonts (like our awesome emoji fonts!) and stunning styles 👑
+reportlab
